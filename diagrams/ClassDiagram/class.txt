@@ -1,0 +1,53 @@
+The following lines can be directly pasted into plantUML to view (and work upon) the diagram.
+----------------
+@startuml
+abstract class ML_OD_model
+class body_detection_model
+ML_OD_model <|-- body_detection_model
+
+
+abstract class clock
+class alarm
+clock <|-- alarm
+
+abstract class aim_xy
+class nozzle_aim
+aim_xy <|-- nozzle_aim
+
+abstract class button
+class emergency_stop
+class set_hour
+class set_minute
+
+button <|-- emergency_stop
+button <|-- set_hour
+button <|-- set_minute
+
+interface I_motorContAPI
+class motor_controller
+
+I_motorContAPI <|.. motor_controller
+
+interface I_raspiAPI
+class raspi
+
+I_raspiAPI <|.. raspi
+
+abstract class motor
+class dc_motor
+class servo_motor
+motor <|-- dc_motor
+motor <|-- servo_motor
+
+clock <-- button: set by
+
+clock -> I_raspiAPI
+
+raspi -> ML_OD_model
+
+ML_OD_model -> aim_xy
+
+aim_xy-> I_motorContAPI
+
+I_motorContAPI -> motor
+@enduml
