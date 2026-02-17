@@ -1,5 +1,7 @@
 The following lines can be directly pasted into plantUML to view (and work upon) the diagram.
 ----------------
+direct link://www.plantuml.com/plantuml/png/RP91JmCX48Nlyoiu6xVU6sDgzD94e_-0K1Wh4PW6PXlR-EDTWRZJJIzDvvlt7hjlsHGscSSOmEmAPsDPsM1AKQyl-krPHt8Oe94TkPDso6ZPK-eh8LFtFyDmNGNBT1l8VlLS4qoEK4cBQ61fCJxgxrFt93gV0-g9GUFDAV3IlXkPANKxHinxJFQa2zEXmuAiFsdCOem-ZOm0pTpEM7Z5QawGKERun9W_Z4MrrP6OyXCbVdpVzYChqdPYcKB0370fcm9Ngoig6PjDEVWvieu0CsyP3IywQidTwAoMOy5yf4xgRtkvhf9CIl-R6nxQLrrFMowtgjwwSlVNO06egqaZ7n_gFtKpNDn44CDaw9TYhVR-Y4LPeknyCepA6JO0RLs3PO-pFaQJ7C2oKaL3BsE3oOqn_080
+----------------
 @startuml
 abstract class ML_OD_model
 class body_detection_model
@@ -39,15 +41,15 @@ class servo_motor
 motor <|-- dc_motor
 motor <|-- servo_motor
 
-clock <-- button: set by
+button -> alarm: sets, starts/stops
 
-clock -> I_raspiAPI
+alarm -> I_raspiAPI
 
-raspi -> ML_OD_model
+raspi *- ML_OD_model
 
-ML_OD_model -> aim_xy
+ML_OD_model -> aim_xy: gives coordinate data
 
-aim_xy-> I_motorContAPI
+aim_xy-> I_motorContAPI: gives command
 
-I_motorContAPI -> motor
+motor_controller o- motor
 @enduml
