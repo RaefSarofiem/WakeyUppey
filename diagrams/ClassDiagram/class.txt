@@ -1,11 +1,46 @@
 The following lines can be directly pasted into plantUML to view (and work upon) the diagram.
 ----------------
 direct link:
-//www.plantuml.com/plantuml/png/TPHHJzim4CVV_IbEFAM3C05lrOH0y8847H9ihv6RN5Dhjg-oBos5xRlFiLF5f9k4KEztzl_k_ZxbnhDqt1ajvDApapL3hQNtyFHOVR-l33MeHI9BQlPLWumrAx93AZi6ttwNvRzF2KkCS79Fy4fjgn6s2dUm8WSUcPLjWPL1A5QXq3g4inEG7XONOd41v-VmU7V_CrmGqnu3_n0bACkmKNRHcIKwqRT06ZQqG_V2aZiVKBZMLwaTDeh7k2Lgh6hNB4wXKNwZvVuLtxX8wLcWBV9phrJCO1w50_C3Ww87C_7dC9zVKwSRuCvPeDKALFXhDCP1cGWqsVOyfeERilu5P66dU0sSN0d2Pn3ExjPe8OofjfAn0QcbCycHIx6u71mPQgQHG7dmqj6IMDM-rwZNqbhKOAN1A6hsyNVIkHABguEEg3M5NihoUZGw-Jk47vaxoc0n6-FRlhKUGavVa7ziYjwOe93MudzFc6eFhnYt81aS2wtTcL4sFKCaoZufsp7wOZP_i8mjkZ4Ps4jyjr0t3P2S6yHJy7geaCL5gZ2GIPrfAewLB4kJnSpHN5APwcqlKc3f_LrZ5PX8FDtCyFJwicCcUxpSfq3ssQ7l6-lx60gWGTUYhVULPzeCq2DNOI5T5feurG3IqbM12v7gfROcObbgb9p299pZN5vPHhUIDS93POZ9tP7bs-U7eP68gZemHrgZ4-BpiQ0NLlNuL2xhfD-eKJA6GemyQIGyCJif3nURkif3ZsvB0ud_qsnDVSpoemSZokkq7lEGPNy6yMFhl_Q-UY5YAfp9snVn5tmfFts0HHP4qRX5SsZL5ZtKHAvHLZ928raAaT9HEFTnF6-Cj8qGKqk1oi6C6xHDP_HV
+//www.plantuml.com/plantuml/png/ZLTHRnGv37xFhx1uwVQWHHJkPOM0KXuEYPRLjNU2frLsnhiJceb7IMQtIu__VeupqvaTwEcGQCTsyjd-x3YfKaVFZqBqRH5XOLo0UtMahMsCSsszGXygzAYE6Z8keeyq67PLCha2Gz1-huwUWlPbQnmnJEGVITCO5cxeF1kIfgP8_e9Sz6Gj-gcvWn3rvU5ITVH3gNSXQX_RsYgbLnosvh0BgqE0oq_Bpn-MDPLexzLJa7MNIPeTYqXDB_rGUSUAolson8X5DEJwhITmgPlNoTOmmhE2o9V6wOZX3UCK5L70znZYUrwnu1KNmmBnj3QkJBQfteGBsgB7ShL_RxMxnJYZrJVsBU6XAqSRtl8_2LGvYWZURAe8jFvbnFFvu_7oP_88jMvWxQc65GSEpCm6-HV1Zlo3h3WrK-0S2d9CdelWiQQjjW6qAq6NfKbEcJOT698Sx2hz0DPG4w1jsEEm7tb7I6v6CS7En0fSQoqmT8iPtAFkPMM9RY5r48I2l74RG5rKaZga36N3jvRZhlGscME5WvNnGj8O3xHpa1aERnNofiJb_sFqFsfLLDfjC81Gcn3qABJPklMnOdsPd5l3GPer51aBLlkqMF0OY0t8-dsiKX8cZ9TrYvw1DZMioKkE5Ufob8SQDJoy_kVav9UvTFa--K1mGvkDHTWQt0bcm1Y5FrCZHsvrI94SFqaCNhrGLo_Wz1G-NNpucpTCJrlIfwDY79VUk2kP22g5G1OQsg6_ZZgsWLKXIX4BdzfXa3T4fKjLuEulJMYitj_WNPnbSpeJt5QBX3GxXha0iovqEfWbnN12deIAMbj2RBtZegmJxQQqcCaZ0ajkSvhCqi35BP3BhHWpAo6nJPvx6XrmccQh8vQWhVPrPkHCNPrrZ7G-SqgfT45xMb4qHKWOgKKSMd2wHW6jz_ATSLwggvSzZYeiSImd9sy6eZj-itW_OeVBD3iUvFCKMbB2M7kDyQz6HWSZI5iyMiBikwkYT44c-0zg_QponrcwD0vcjN5THP93urZPoboRVtGHD-W78-kkfOH3RHAqbqe8dSoxjR12YFeM7HJQevp4FGIgiRy1eCPOKHbEcQfQxtcvBakmEgBFFBvILw-0hHcquoqBNKvPkEaJwsH9xtYioTc8RjFh9dbEJGztYbIXaxIFWrXKMDnsubowDn6IEPUovB2dHT6cNjxjKm9hIph2tN8OdW_A_LZPqsnnBHCj8ypd1pkxwrkcSPwp-JvepFFQGfuKv7jJG1UpFGsptCCwKftwUrUPeag32mnZw10nH1YDfPo6e-_VBIuvbd4gV303nb4QMP7OqhPeKt7FtSPsX5ypw2LjyOBgMhioI5Vdx8J1aHEb9BsrBX1MROpaVXfE34XkuJ4a70Rg8yKQ_GPTiL-cSdPA3cfPKUj7OYsja1NTq5Ycs5Ns9n5DmCQc0NAgpC1ZzHX-oElZyk7fTBxuAE-KNbwC9l3235B_q96Do-BX9PKsVyrmuwrVVbQLnLJt559DleZl6ve-SYu_R_7h8xO_MxTewoRNbkd9GYh5OMhC0P_gQSpgW8fkI9nv7HgJwPYMMzvKrsRZzFZD9nlkyt6U1ZXvX7LzCdNM1oYIEWnBT6VTUWchuEPjdIbqkf9N67U8JbPfLtRhsCbq3EJiEKoviJux2Ky-r-jHCdrrEl6EEyPlwK2tFz39J-ansJlLtJsoU8BIz-h9cpp4vgcFmxCy0SFprFf1AJ6bDJyJg9HymMyCFNh5T6h1pKCCDcQBOVH-X597hLGs2_QuSuRrCZ6KcZOHq4ccjh-Qkha8sm0Ur_dF6RcfYj5ZFDytluFY_tpXJ9noyTwXAzEV9Fy2
 ----------------
+
+
+'/'struct Pins {
+'allpinnumbershere
+'pointertopinnumberswhherencessary
+'+ arduinoPintoPi
+'+ piPinToArduino
+'+ motorControllerPinToArduino
+'+ arduinoPinToMotorController
+'}
+
 @startuml
-abstract class ML_OD_model
-class body_detection_model
+
+abstract class ML_OD_model{
++ startModel()
++ stopModel()
+}
+class body_detection_model{
+- Map<bodypart,coordinates>
++ chooseBestBodyPartCoordinates()
++ findBodyCoordinates()
++ isCoveredbyBlanket(object)
++ sendCoordinates????()
+}
+
+note right of body_detection_model::Map<bodypart,coordinates>
+ordered map from best target to worst target
+choice: constant removals and additions based on what target pops up
+or constant edits to coordinates with null values and real values
+look into scoring each body part and just having the body parts as their own objects?
+end note
+
+note right of body_detection_model::isCoveredbyBlanket(object)
+changes order of a body part (further down list if covered by a blanket)
+if everything is covered by blanket, aim for the head
+end note
+
+
 ML_OD_model <|-- body_detection_model
 
 note "Do Toggle view for setting time (flashing)" as N1
@@ -37,25 +72,48 @@ LCD <|-- LCDView
 
 abstract class clock {
 - int time
-+ setTime(hr,min)
++ setHour(hr)
++ setMin (min)
 + getTimeinMinutes():Integer
 + getTime():String
 }
 
+note "timer for alarm will be taken care of by some arduino methods... maybe add later" as N4
+N4 ... alarm
+
 class alarm{
 - int alarmTime
-+ set alarmTime()
++ set alarmHour()
++ set alarmMinute()
 + get alarmTimeinMinutes()
 + get alarmTime()
++ stopAlarm()
++ startAlarm()
++ checkAlarm():bool
+
 }
 
 clock <|-- alarm
 
-abstract class aim_xy
-class nozzle_aim
+abstract class aim_xy{
+- float x_coordinate
+- float y_coordinate
+}
+
+note left of aim_xy::x_coordinate
+pointers to values from pi/ml model
+or values sent from there, or atomics whichever is fastest 
+end note
+
+class nozzle_aim{
+- float x_offset
+- float y_offset
++ calculateAngles()
++ SendMoveCommands()
+}
 aim_xy <|-- nozzle_aim
 
-abstract class button{
+interface button{
 - int pinNumber
 + onPress()
 
@@ -71,31 +129,66 @@ button <|-- emergency_stop
 button <|-- set_hour
 button <|-- set_minute
 button <|-- toggle_set
-interface I_motorContAPI
-class motor_controller
+interface I_motorContAPI{
+- MotorContPinNumber
+- PiPinNumber
+}
+class motor_controller{
+- Y_motorPinNumber
+- X_motorPinNumber
+- dc_motorPinNumber
++ MoveXMotorToCoordinates()
++ MOveYMotorToCoordinates()
++ RunPump()
++ StopPump()
+}
 
 I_motorContAPI <|.. motor_controller
 
-interface I_raspiAPI
-class raspi
+interface I_arduino2raspiAPI{
+- int pinNumber
++ sendSignal()
+}
+class raspi{
++ getCoordinates()
++ sendCoordinates()
 
-I_raspiAPI <|.. raspi
+}
 
-abstract class motor
+I_arduino2raspiAPI <|.. raspi
+
+
+interface I_raspi2arduinoAPI{
+communicationbetweenraspiandarduino
+}
+
+
+abstract class motor{
++ turnOn()
++ turnOff()
+}
 class dc_motor
-class servo_motor
+class x_servo_motor
+class y_servo_motor
 motor <|-- dc_motor
-motor <|-- servo_motor
+motor <|-- x_servo_motor
+motor <|-- y_servo_motor
 
 button -> alarm: sets, starts/stops
 
-alarm -> I_raspiAPI
+alarm -> I_arduino2raspiAPI
 
-raspi *- ML_OD_model
+raspi *-- ML_OD_model
 
-ML_OD_model -> aim_xy: gives coordinate data
+raspi -> aim_xy: gives coordinate data
 
 aim_xy-> I_motorContAPI: gives command
 
 motor_controller o- motor
+
+note "pointer vs reference for coordinates?" as N5 
+N5 ... I_motorContAPI
+
+
 @enduml
+
