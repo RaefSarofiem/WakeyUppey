@@ -98,6 +98,7 @@ clock <|-- alarm
 abstract class aim_xy{
 - float x_coordinate
 - float y_coordinate
++ SendMoveCommands()
 }
 
 note left of aim_xy::x_coordinate
@@ -109,7 +110,6 @@ class nozzle_aim{
 - float x_offset
 - float y_offset
 + calculateAngles()
-+ SendMoveCommands()
 }
 aim_xy <|-- nozzle_aim
 
