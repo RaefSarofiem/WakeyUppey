@@ -156,6 +156,3 @@
     WHEN:    The user presses any button or no button is pressed
     THEN:    The display shows "LOW BATTERY"
              "LOW BATTERY" remains displayed while the battery power remains below the X threshold
-
-
-#TODO: LCD acceptance Tests
