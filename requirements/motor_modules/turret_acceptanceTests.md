@@ -1,5 +1,5 @@
-1.  GIVEN:  Power is connected and sufficent
-            Tracking system is running
-    WHEN:   move command is recieved
-    THEN:   the nozzle is moved to the correct position that allows the stream of water coming from the nozzle to land within 5 cm radius of the commanded coordinate
-            the nozzle must reach the position within 1/4 of a second of recieving the command
+1.  GIVEN:  Power is connected and sufficient
+            The tracking system is running
+    WHEN:   A move command is received
+    THEN:   The nozzle is moved to the correct position so the stream of water lands within a 5 cm radius of the commanded coordinate
+            The nozzle reaches that position within 1/4 of a second of receiving the command

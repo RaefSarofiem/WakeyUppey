@@ -1,19 +1,20 @@
-GIVEN: alarm signal is on
-WHEN: all of user's body is visible
-THEN: User's head coordinates are prioritized (forhead)
+1.  GIVEN:  Alarm signal is on
+    WHEN:   All of the user's body is visible
+    THEN:   The user's head coordinates are prioritized (forehead)
 
-GIVEN: alarm signal is on
-WHEN: User's head is not visible, but rest of body is
-THEN: User's leg coordinates are prioritized
+2.  GIVEN:  Alarm signal is on
+    WHEN:   The user's head is not visible, but the rest of the body is visible
+    THEN:   The user's leg coordinates are prioritized
 
-GIVEN: alarm signal is on
-WHEN: user's head and legs are not visible, but rest of body is
-THEN: User's torso coordinates are prioritized
+3.  GIVEN:  Alarm signal is on
+    WHEN:   The user's head and legs are not visible, but the rest of the body is visible
+    THEN:   The user's torso coordinates are prioritized
 
-GIVEN: alarm signal is on
-WHEN: only one part of User's body is visible
-THEN: visible part's coordinates are prioritized
+4.  GIVEN:  Alarm signal is on
+    WHEN:   Only one part of the user's body is visible
+    THEN:   The visible part's coordinates are prioritized
 
-GIVEN: alarm signal is on, user is not detected
-WHEN: Hiding under blanket
-THEN: prioritize coordinate to middle of blanket.
+5.  GIVEN:  Alarm signal is on
+            The user is not detected
+    WHEN:   The user is hiding under a blanket
+    THEN:   The coordinate at the middle of the blanket is prioritized
