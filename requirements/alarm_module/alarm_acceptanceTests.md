@@ -33,6 +33,7 @@
     THEN:   clock saves set alarm time and clock time
             clock display stops flashing if it was previously flashing
             clock displays last saved clock time
+            
 
 #TODO: MODE setup to where each mode makes something written on the 2nd line, ex. if alarm is set, should display "ARMED", if not, should display "PASSIVE"
             
